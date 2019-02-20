@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Miriam\'s Recipes</string>
+    <string name="mirriam">Mirriam\'s -</string>
+    <string name="next">NEXT</string>
+    <string name="previous">PREVIOUS</string>
+    <string name="appwidget_text">Recipe</string>
+    <string name="empty_view_text">Ingredient is empty!</string>
+    <string name="mirriams_recipe">mirriams_recipe</string>
+    <string name="testString">going to be great like never seen before</string>
+    <string name="mirriam_s_recipe">Mirriam\'s Recipe</string>
+    <string name="no_internet_message">NO INTERNET CONNECTION, PLEASE CONNECT AND RELOAD</string>
+</resources>

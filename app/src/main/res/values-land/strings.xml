@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="testString">going to be great like never seen before</string>
+    <string name="mirriam_s_recipe">Mirriam\'s Recipe</string>
+    <string name="no_internet_message">NO INTERNET CONNECTION, PLEASE CONNECT AND RELOAD</string>
+</resources>
